@@ -7,16 +7,14 @@ This app allows student to filled in their personal information such as first na
 
 <img src="https://github.com/Sunqiaol/IOScodepath/blob/main/demo_IOS.gif" width=200><br>
 
-`TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
-
 ### Required Features
 
-- [ ] 1. App displays an image of a school's logo
-- [ ] 2. App has three textfields for first, last, and school names
-- [ ] 3. App has a segmented control that changes student year
-- [ ] 4. Number of pet matches label is increased/decreased by stepper
-- [ ] 5. Switch makes a statement about wanting more pets or not(true/false) 
-- [ ] 6. Introduce yourself button shows alert box with an introduciton and dismiss button
+- [X] 1. App displays an image of a school's logo
+- [X] 2. App has three textfields for first, last, and school names
+- [X] 3. App has a segmented control that changes student year
+- [X] 4. Number of pet matches label is increased/decreased by stepper
+- [X] 5. Switch makes a statement about wanting more pets or not(true/false) 
+- [X] 6. Introduce yourself button shows alert box with an introduciton and dismiss button
 
 ### Optional Features
 
