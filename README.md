@@ -5,7 +5,7 @@ This app allows student to filled in their personal information such as first na
 ### App Walk-though
 
 
-<!-- <img src="https://github.com/Sunqiaol/IOScodepath/blob/main/demo_IOS.gif" width=200><br>
+<img src="https://github.com/Sunqiaol/IOScodepath/blob/main/demo_IOS.gif" width=200><br>
 
 `TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
 
